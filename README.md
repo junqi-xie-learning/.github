@@ -1,6 +1,6 @@
 # Junqi Xie's CS Learning
 
-`junqi-xie-learning` organization contains my solutions to assignments from several courses, including courses I take in SJTU and Open Courses from MIT, CMU, etc..
+`@junqi-xie-learning` organization contains my assignments and projects from several courses, including courses in SJTU, courses in UC Berkeley (Berkeley Global Access Remote) and selected Open Courses from MIT, CMU, etc..
 
 ## SJTU Courses
 
@@ -17,9 +17,14 @@
 * [ICE2603](https://github.com/junqi-xie/MIPS-CPU): Computer Organization
 * [SE2317](https://github.com/junqi-xie-learning/ICS-Labs): Introduction to Computer Systems (System Software)
 
+## UC Berkeley Courses
+
+* [CS 161](https://github.com/junqi-xie/REGULUS): Computer Security ([Course Page](http://inst.eecs.berkeley.edu/~cs161/))
+* [CS W186](https://github.com/junqi-xie/RookieDB): Introduction to Database Systems ([Course Page](http://inst.eecs.berkeley.edu/~cs186/))
+
 ## Open Courses
 
 * [MIT 6.001](https://github.com/junqi-xie-learning/SICP-Projects): Structure and Interpretation of Computer Programs (Spring 2005) ([OCW Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/))
-* [MIT 6.005](https://github.com/junqi-xie-learning/6-005-Assignments): Software Construction (Spring 2016) ([OCW Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/))
+* [MIT 6.005](https://github.com/junqi-xie-learning/6-005-Assignments): Software Construction (Spring 2016) ([OCW Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/))
 * [MIT 6.006](https://github.com/junqi-xie-learning/6-006-Assignments): Introduction to Algorithms (Fall 2011) ([OCW Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/))
-* [CMU 15-213](https://github.com/junqi-xie-learning/ICS-Labs): Introduction to Computer Systems (Fall 2015) ([Course Page](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/index.html))
+* [CMU 15-213](https://github.com/junqi-xie-learning/ICS-Labs): Introduction to Computer Systems (Fall 2015) ([Course Page](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/))
