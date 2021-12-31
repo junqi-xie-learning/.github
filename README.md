@@ -17,6 +17,12 @@
 * [ICE2603](https://github.com/junqi-xie/MIPS-CPU): Computer Organization
 * [SE2317](https://github.com/junqi-xie-learning/ICS-Labs): Introduction to Computer Systems (System Software)
 
+### Junior Year
+
+* [AI3603](https://github.com/junqi-xie-learning/AI3603-Assignments): Artificial Intelligence: Principles and Applications
+* [CS3601](https://github.com/junqi-xie/ChCore): Operating Systems
+* [CS3608](https://github.com/junqi-xie-learning/CS3608-Assignments): Design and Analysis of Algorithms
+
 ## UC Berkeley Courses
 
 * [CS 161](https://github.com/junqi-xie/REGULUS): Computer Security ([Course Page](http://inst.eecs.berkeley.edu/~cs161/))
