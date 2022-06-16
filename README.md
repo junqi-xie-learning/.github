@@ -20,8 +20,10 @@
 ### Junior Year
 
 * [AI3603](https://github.com/junqi-xie-learning/AI3603-Assignments): Artificial Intelligence: Principles and Applications
+* [CS3319](https://github.com/junqi-xie-learning/CS3319-Assignments): Introduction to Data Science
 * [CS3601](https://github.com/junqi-xie/ChCore): Operating Systems
 * [CS3608](https://github.com/junqi-xie-learning/CS3608-Assignments): Design and Analysis of Algorithms
+* [CS3612](https://github.com/junqi-xie-learning/CS3612-Assignments): Machine Learning
 
 ## UC Berkeley Courses
 
@@ -30,7 +32,7 @@
 
 ## Open Courses
 
-* [MIT 6.001](https://github.com/junqi-xie-learning/SICP-Projects): Structure and Interpretation of Computer Programs (Spring 2005) ([OCW Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/))
-* [MIT 6.005](https://github.com/junqi-xie-learning/6-005-Assignments): Software Construction (Spring 2016) ([OCW Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/))
-* [MIT 6.006](https://github.com/junqi-xie-learning/6-006-Assignments): Introduction to Algorithms (Fall 2011) ([OCW Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/))
+* [MIT 6.001](https://github.com/junqi-xie-learning/SICP-Projects): Structure and Interpretation of Computer Programs (Spring 2005) ([OCW Page](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/))
+* [MIT 6.005](https://github.com/junqi-xie-learning/6-005-Assignments): Software Construction (Spring 2016) ([OCW Page](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/))
+* [MIT 6.006](https://github.com/junqi-xie-learning/6-006-Assignments): Introduction to Algorithms (Fall 2011) ([OCW Page](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/))
 * [CMU 15-213](https://github.com/junqi-xie-learning/ICS-Labs): Introduction to Computer Systems (Fall 2015) ([Course Page](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/))
