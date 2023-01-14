@@ -25,6 +25,10 @@
 * [CS3608](https://github.com/junqi-xie-learning/CS3608-Assignments): Design and Analysis of Algorithms
 * [CS3612](https://github.com/junqi-xie-learning/CS3612-Assignments): Machine Learning
 
+### Senior Year
+
+* [CS4302](https://github.com/junqi-xie-learning/CS4302-Assignments): Parallel and Distributed Programming
+
 ## UC Berkeley Courses
 
 * [CS 161](https://github.com/junqi-xie/REGULUS): Computer Security ([Course Page](http://inst.eecs.berkeley.edu/~cs161/))
